@@ -1,8 +1,8 @@
-# Longleaf Atlas Preview
+﻿# Longleaf Atlas Preview
 
 [Open preview](https://mapdude334.github.io/longleaf-atlas-preview/)
 
-Test build from the work-in-progress source based on 3aa1186. Built 2026-10-27 16:30 UTC.
+Test build from the work-in-progress source based on b2bb7a4. Built 2026-10-27 17:07 UTC.
 
 Production remains at https://mapdude334.github.io/longleaf-outdoors/. Browser data and downloads are isolated from production.
 
